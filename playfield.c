@@ -8,7 +8,7 @@
  **              playfield example in C/SDL            **
  ** CHANGES    : see changes.txt                       **
  ********************************************************/
-/* to compile: cc name.c -lSDL2 -lm */
+/* to compile: cc playfield.c -lSDL2 -lm */
 
 #include <stdio.h>
 #include <SDL2/SDL.h>
