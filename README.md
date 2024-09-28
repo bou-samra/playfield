@@ -9,6 +9,9 @@ Essentially it is a translation of Motorola 68000 assembly to C language code, u
 ## Compilation
 `cc playfield.c -lSDL2 -lm`
 
+## Screenshot
+![playfield](https://github.com/bou-samra/playfield/blob/main/fs-uae-full-2012271552-01.png)
+
 ## Author
 Jason Bou-Samra
 
