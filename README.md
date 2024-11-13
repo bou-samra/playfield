@@ -15,4 +15,3 @@ Essentially it is a translation of Motorola 68000 assembly to C language code, u
 ## Author
 Jason Bou-Samra
 
-> {}
